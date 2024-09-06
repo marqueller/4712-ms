@@ -14,7 +14,7 @@ UML foi criado com o fim de fazer um método de criação de software unificado,
 - Diagrama de implementação
 - Diagrama de objetos
 - Diagrama de pacotes
-- 
+  
 # Diagrama UML comportamentais
 - Diagramas de atividade
 - Diagrama de comunicação
