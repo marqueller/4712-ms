@@ -1,0 +1,28 @@
+NOme: Sophia
+2° ano 6 - Tec. Informática
+
+o que é UML?
+UML (Unified Modeling Language) é uma linguagem de notação visual para modelar e documentar o desenvolvimento de software orientado a objetos. A UML é usada para criar uma linguagem de modelagem comum para a arquitetura, design e implementação de sistemas de software complexos. 
+ 
+ tipos de UML:
+Diagrama de classe
+Diagrama de pacote
+Diagrama de objeto
+Diagrama de componente
+Diagrama de estrutura
+Diagrama de implantação
+Diagrama de caso de uso
+Diagrama de sequência
+Diagrama de estados
+Diagrama de atividades 
+
+Use um exemplo cotidiano para exemplificar uma classe
+imagine uma biblioteca, a classe livro guardaria o nome, atríbutos como o título, Autor e etc...
+
+sistemas concorrentes do GitHub
+GitLab: Uma das alternativas mais populares, o GitLab oferece uma suíte completa de ferramentas para o desenvolvimento de software, incluindo CI/CD, gerenciamento de projetos e monitoramento.
+ * Bitbucket: Pertence à Atlassian, a mesma empresa por trás do Jira e Confluence, o Bitbucket se integra bem com essas ferramentas e é popular entre equipes que utilizam a stack Atlassian.
+ * GitHub Enterprise: Uma versão do GitHub projetada para grandes empresas, oferecendo mais controle e personalização.
+ * Gogs: Uma plataforma leve e auto-hospedada, ideal para projetos menores e equipes que preferem ter mais controle sobre seus dados.
+ * Gitea: Outra alternativa leve e auto-hospedada, com uma interface similar ao GitHub.
+ * Azure DevOps: Uma plataforma completa da Microsoft que oferece um conjunto abrangente de ferramentas para desenvolvimento de software, incluindo Git, CI/CD, e gerenciamento de projetos.
