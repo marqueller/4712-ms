@@ -1,0 +1,61 @@
+ Nome:Leticia Soares Afonso 
+ 2°_6 Tec.Informatica
+
+ 
+ 
+ 1 – O que é UML
+2 – Tipos de UML;
+3 – Use um exemplo prático de sua vida cotidiana para exemplificar uma classe.
+4 – Sobre o Git Hub pesquise sistemas concorrentes listando ao menos uma diferença
+
+1. O que é UML?
+UML (Unified Modeling Language) é uma linguagem de modelagem padrão utilizada para especificar, visualizar, construir e documentar artefatos de sistemas de software. Ela oferece um conjunto de notações para descrever estruturas, comportamentos e interações em sistemas complexos, permitindo que diferentes stakeholders (desenvolvedores, arquitetos, analistas) compreendam e comuniquem aspectos do sistema de forma clara.
+
+2. Tipos de Diagramas UML
+UML possui vários tipos de diagramas, que podem ser divididos em três categorias principais:
+Diagramas Estruturais: Focam na estrutura estática do sistema.
+
+Diagrama de Classes: Mostra a estrutura de classes e seus relacionamentos.
+Diagrama de Objetos: Representa instâncias de classes em um determinado momento.
+Diagrama de Componentes: Mostra a organização e dependências dos componentes do sistema.
+Diagrama de Pacotes: Agrupa elementos relacionados dentro de pacotes.
+Diagrama de Implantação: Descreve a arquitetura física de hardware e software.
+Diagramas Comportamentais: Focam no comportamento dinâmico do sistema.
+Diagrama de Casos de Uso: Mostra as interações entre usuários (atores) e o sistema.
+Diagrama de Sequência: Representa a interação entre objetos em ordem cronológica.
+Diagrama de Comunicação: Foca nas interações entre objetos e a ordem das mensagens.
+Diagrama de Estados: Mostra os estados pelos quais um objeto passa durante seu ciclo de vida.
+Diagrama de Atividades: Representa o fluxo de atividades em um processo.
+Diagramas de Interação: São variações dos diagramas comportamentais, focando em interações específicas.
+Diagrama de Interação Geral: Um tipo mais geral de diagrama de interação.
+Diagrama de Tempo: Mostra como os objetos mudam de estado ao longo do tempo.
+3. Exemplo de Classe na Vida Cotidiana
+Imagine uma classe chamada Carro que você usa no seu dia a dia. Um carro possui atributos (características) e métodos (ações que ele pode realizar).
+
+Classe Carro:
+
+Atributos:
+
+cor: A cor do carro (exemplo: vermelho).
+marca: A marca do carro (exemplo: Toyota).
+modelo: O modelo do carro (exemplo: Corolla).
+ano: O ano de fabricação (exemplo: 2020).
+velocidade: A velocidade atual (exemplo: 60 km/h).
+Métodos:
+
+acelerar(): Aumenta a velocidade do carro.
+frear(): Diminui a velocidade do carro.
+ligar(): Liga o carro.
+desligar(): Desliga o carro.
+Aqui, a classe Carro serve como um modelo para criar objetos específicos, como "meu Carro Vermelho", que seria uma instância da classe com atributos definidos.
+
+4. Concorrentes do GitHub e Diferenças
+Alguns dos principais concorrentes do GitHub são:
+
+GitLab: Um sistema semelhante ao GitHub, mas com um foco maior na integração contínua e entrega contínua (CI/CD). Ele oferece um pipeline CI/CD integrado que permite automatizar testes e deploys de forma muito robusta. Além disso, o GitLab pode ser hospedado em servidores próprios, oferecendo mais controle sobre a infraestrutura.
+
+Bitbucket: Também é uma plataforma para repositórios Git, com uma integração forte com o Jira e outros produtos da Atlassian. O Bitbucket suporta também repositórios Mercurial, diferentemente do GitHub, que se concentra apenas em Git.
+
+SourceForge: Um dos primeiros serviços a oferecer hospedagem de código aberto. Diferentemente do GitHub, que é mais usado por uma vasta gama de projetos, o SourceForge é conhecido por hospedar projetos de software livre.
+
+Azure DevOps Repos: É parte do conjunto de ferramentas Azure DevOps da Microsoft e oferece repositórios Git com uma integração robusta com todo o ecossistema DevOps da Microsoft, facilitando pipelines CI/CD e gerenciamento de projetos.
