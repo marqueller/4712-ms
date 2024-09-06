@@ -1,1 +1,1 @@
-Se esse branch o Ragnarok acontece.
+Se esse branch for apagado o Ragnarok acontece.
