@@ -22,6 +22,7 @@ Diagrama de atividade.
 
 3. Exemplo pratico de sua vida cotidiana
 
+um exemplo e a classe pessoa que possui nome, altura, peso, profissão, sobrenome, genero
  
  4 . Sistemas concorrentes ao Git hub e uma diferença
 
