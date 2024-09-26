@@ -1,0 +1,16 @@
+1-Um diagrama UML é uma forma de visualizar sistemas e softwares usando a Linguagem de Modelagem Unificada (do inglês Unified Modeling Language - UML). Desenvolvedores criam 
+diagramas UML
+ para entender projetos, arquitetura de código e propostas de implementação de sistemas de software complexos. Os diagramas UML também são usados para modelar workflows e processos de negócios
+
+ 2-Diagrama de componentes.
+Diagrama de implementação.
+Diagrama de objetos.
+Diagrama de comunicação.
+Diagrama de estados.
+Diagrama de caso de uso.
+Diagrama de sequência.
+Diagrama de atividade.
+
+3- Se caso eu trabalhar num petshop a classe poderia me ajudar em como separar cada cachorro por, raça, altura, pelo e características.
+
+4- Um grande concorrente do github é o microsoft teams e o github, uma grande diferença seria que o microsoft teams permite o bate-papo e o github não.
