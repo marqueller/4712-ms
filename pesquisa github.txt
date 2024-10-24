@@ -1,0 +1,34 @@
+Pesquisa UML: 
+
+1-Oque é UML?
+Um diagrama UML é uma forma de visualizar sistemas e softwares usando a Linguagem de Modelagem Unificada. Desenvolvedores criam diagramas UML para entender projetos, arquitetura de código e propostas de implementação de sistemas de software complexos.
+
+2-Tipos de UML:
+Estruturais: os diagramas estruturais conseguem modelar os aspectos estáticos do software, como métodos, interfaces, serviços, arquitetura e classes, por exemplo;
+
+Comportamentais: os diagramas comportamentais especificam detalhes do comportamento do software para exemplificar como determinadas funções deverão funcionar, incluindo os possíveis métodos de interação dos usuários.
+
+3-Caneta e Lápis
+
+4-Dobre o Github pesquise sistemas concorrentes listando ao menos uma diferença:
+
+Google Docs.
+-O GitHub é um local para compartilhar código com amigos, colegas de trabalho, colegas de classe e desconhecidos.
+Já o Documentos Google é um processador de texto online que permite criar e formatar documentos de texto, além de colaborar com outras pessoas em tempo
+
+Harvest.
+Harvest possui suporte para telefone
+O Canva não
+
+Canva
+
+Github:Desenvolvimento de software para pequenas startups e grandes empresas.
+Canva:foi desenvolvido para que pequenas e grandes empresas criem gráficos, impressões e slides de apresentação personalizáveis 
+
+Microsoft Teams.
+Microsoft Teams possui bate-papo
+O Canva nao.
+
+Notepad++
+Github tem pra mobile
+O notepad não tem
