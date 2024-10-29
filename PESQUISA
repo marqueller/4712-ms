@@ -1,0 +1,55 @@
+1-O QUE É UML?
+
+UML, ou Linguagem de Modelagem Unificada, é uma linguagem padrão usada para especificar, visualizar, construir e documentar artefatos de software.
+Ela fornece um conjunto de notações gráficas que ajudam desenvolvedores e analistas a representar diferentes aspectos de um sistema.
+
+
+2-TIPOS DE DIAGRAMA:
+
+Diagramas Estruturais
+Diagrama de Classes : Mostra as classes do sistema, seus atributos, métodos e as relações entre eles.
+Diagrama de Componentes : Representa os componentes do sistema e suas inter-relações.
+Diagrama de Despliegue : ilustra a distribuição física dos artefatos em nós.
+Diagrama de Objetos : Semelhante ao diagrama de classes, mas se concentra nos objetos e suas relações em um momento específico.
+Diagrama de Pacotes : Organiza o modelo em pacotes e mostra as relações entre eles.
+Diagrama de Estrutura Computa : Descreva a estrutura interna de uma classe e as interações entre suas partes.
+
+Diagramas de Comportamento
+Diagrama de Casos de Uso : Representa as interações entre os atores e o sistema, mostrando as funcionalidades que o sistema oferece.
+Diagrama de Sequência : Mostra como os objetos interagem em um cenário ao longo do tempo.
+Diagrama de Colaboração : Enfocado nas interações entre objetos, mostrando como se relacionam para lograr um objetivo.
+Diagrama de Atividades : Representa o fluxo de trabalho e as atividades em um processo.
+Diagrama de Estado : Descreve os estados de um objeto ao longo de sua vida e os eventos que causam mudanças de estado.
+Diagrama de Tempo : Se centra no comportamento dos objetos ao longo do tempo, mostrando as interações temporais.
+
+3-EXEMPLO DO DIA-A-DIA:
+
+Diagrama de Classe - Carro
+sql
+
++------------------+
+|      Carro       |
++------------------+
+| - modelo: String |
+| - cor: String    |
+| - ano: Int       |
+| - ligado: Bool   |
++------------------+
+| + ligar(): Void  |
+| + desligar(): Void|
+| + acelerar(): Void|
++------------------+
+
+4-SOBRE O GITHUB PESQUISE SISTEMAS CONCORRENTES LISTANDO AO MENOS UMA DIFERENÇA.
+
+GitLab
+
+Diferença: O GitLab oferece uma versão auto-hospedada com recursos integrados de CI/CD, enquanto o GitHub tem funcionalidades de CI/CD, mas com mais foco em sua versão hospedada.
+Bitbucket
+
+Diferença: O Bitbucket permite repositórios privados gratuitos para equipes pequenas, enquanto o GitHub exige uma assinatura para repositórios privados em sua versão gratuita.
+SourceForge
+
+Diferença: O SourceForge é mais focado em projetos de código aberto e tem um sistema de download de projetos, enquanto o GitHub se concentra mais na colaboração e no controle de versões.
+
+
