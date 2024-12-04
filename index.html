@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    O diagrama de classes, conforme definido pela UML (Unified Modeling Language), é uma das ferramentas mais
+    importantes para modelagem de sistemas orientados a objetos. Ele descreve a estrutura estática do sistema,
+    representando as classes, seus atributos, métodos e os relacionamentos entre elas.
+
+    Principais Elementos do Diagrama de Classe
+    Classes:
+
+    Representadas como retângulos divididos em três seções:
+    Nome da classe (geralmente em negrito).
+    Atributos (variáveis ou propriedades da classe).
+    Métodos (operações ou funções da classe).
+    Relacionamentos:
+
+    Associação: Representa um vínculo entre duas classes, como "um aluno está associado a um curso".
+    Pode incluir multiplicidade (ex.: 1:1, 1:N, N:N).
+    Generalização/Herança: Indica que uma classe herda atributos e métodos de outra (seta com linha sólida e ponta
+    vazia).
+    Dependência: Representa uma relação fraca onde uma classe usa outra temporariamente (seta tracejada).
+    Agregação: Relação "todo-parte", mas as partes podem existir independentemente do todo (linha com um losango vazio).
+    Composição: Relação "todo-parte" mais forte, onde as partes dependem do todo para existir (linha com um losango
+    preenchido).
+    Atributos e Métodos:
+
+    Cada atributo ou método pode ter visibilidade definida:
+    + Público
+    - Privado
+    # Protegido
+    Multiplicidade:
+
+    Indica quantos objetos de uma classe podem estar associados a objetos de outra classe (ex.: 1, 0.., 1..).
+    Interfaces e Classes Abstratas:
+
+    Classes abstratas são representadas com o nome em itálico e contêm métodos que devem ser implementados por
+    subclasses.
+    Interfaces representam contratos que classes implementam.
+    Aplicação do Diagrama de Classe
+    O diagrama é usado em várias etapas do desenvolvimento de software:
+
+    Análise e Design: Para capturar e organizar os requisitos do sistema.
+    Documentação: Serve como um guia para desenvolvedores e stakeholders.
+    Comunicação: Facilita o entendimento do sistema entre os membros da equipe.
+
+    Um exemplo cotidiano de diagrama de classe UML é um sistema de biblioteca:
+
+    Classes e Atributos:
+    1. Livro: título, autor, ISBN, disponibilidade.
+    2. Usuário: nome, email, id.
+    3. Bibliotecário (herda de Usuário): matrícula.
+    4. **Empréstimo: dataEmprestimo, dataDevolucao.
+
+    Relacionamentos:
+    - Usuário realiza Empréstimos.
+    - Bibliotecário gerencia Livros (cadastra, remove).
+    - Livro está associado a vários Empréstimos.
+
+
+</body>
+
+</html>
